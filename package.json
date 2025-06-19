@@ -1,0 +1,23 @@
+{
+  "name": "lessonfive",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node src/server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "http": "^0.0.1-security",
+    "mongoose": "^8.15.0"
+  },
+  "devDependencies": {
+    "@types/mongoose": "^5.11.96",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
