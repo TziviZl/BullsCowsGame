@@ -18,13 +18,13 @@ All game data and user info are stored in MongoDB, including guess history and g
 ## 📁 Project Structure
 The codebase is organized as follows:
 
-src/
-├── app.ts
-├── server.ts
-├── db/ // Database connection
-├── games/ // Game logic and API
-├── players/ // Player logic and API
-└── middleware/ // Validation middlewares
+src/  
+├── app.ts  
+├── server.ts  
+├── db/ // Database connection  
+├── games/ // Game logic and API  
+├── players/ // Player logic and API  
+└── middleware/ // Validation middlewares  
 
 
 ---
